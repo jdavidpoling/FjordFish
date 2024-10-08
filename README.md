@@ -7,4 +7,9 @@ This is a dataset of imagery from baited and unbaited remote underwater video fr
   - model testing and validation
   - model pretraining
 
+The dataset contain approximately 6000 annotation across 3000 images from wild fauna, as well as images of coastal cod gadus _morhua_ of varied sizes and ages from a holding pond resembling wild rocky habitat.
+
 Annotations are contained in text files currently in the You Only Look Once (YOLO) format for YOLOv8+
+
+### Download
+Download link coming
