@@ -19,4 +19,3 @@ Download link coming
 The dataset contains 28 classes:
   - 23 species level classes i.e. "cod" (gadus _morhua_)
   - 5 uknown or group level classes i.e. "labrids_unknown" (unknown wrasses)
-  - 
