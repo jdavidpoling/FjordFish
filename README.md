@@ -10,7 +10,7 @@ This is a dataset of imagery from baited and unbaited remote underwater video fr
 The dataset contain approximately 6000 annotations across 3000 images from wild fauna, as well as images of coastal cod gadus _morhua_ of varied sizes and ages from a holding pond resembling wild rocky habitat.
 
 ### Download
-Download link coming
+https://huggingface.co/datasets/jdpoling/FjordFish/tree/main
 
 ### Detection and Classification
 
