@@ -1,1 +1,14 @@
-
+message: "The dataset and associated code can by cited as:"
+authors:
+- family-names: "Poling"
+  given-names: "James David"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Sørdalen"
+  given-names: "Tonje"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Halvorsen"
+   given-names: "Kim"
+title: "FjordFish"
+version: 2.0.4
+date-released: 2025-05-07
+url: "https://github.com/jdavidpoling/FjordFish"
