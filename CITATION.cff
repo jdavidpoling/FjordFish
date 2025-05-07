@@ -1,15 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "The dataset and associated code can by cited as:"
+title: FjordFish
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
 authors:
-- family-names: "Poling"
-  given-names: "James David"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Sørdalen"
-  given-names: "Tonje"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Halvorsen"
-   given-names: "Kim"
-title: "FjordFish"
-version: 2.0.4
-date-released: 2025-05-07
-url: "https://github.com/jdavidpoling/FjordFish"
+  - given-names: James David
+    family-names: Poling
+    name-suffix: III
+    email: james.d.poling@uia.no
+    affiliation: 'University of Agder, Institute of Marine Research'
+  - given-names: Tonje
+    family-names: Sørdalen
+    email: tonje.k.sordalen@uia.no
+    affiliation: 'University of Agder, Institute of Marine Research'
+  - given-names: Kim
+    family-names: Halvorsen
+    email: kim.halvorsen@hi.no
+    affiliation: Institute of Marine Research
+url: 'https://github.com/jdavidpoling/FjordFish'
+license: MIT
+version: '1.0'
+date-released: '2050-05-07'
