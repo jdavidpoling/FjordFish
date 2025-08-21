@@ -9,9 +9,6 @@ This is a dataset of imagery from baited and unbaited remote underwater video fr
 
 The dataset contain approximately 6000 annotations across 3000 images from wild fauna, as well as images of coastal cod gadus _morhua_ of varied sizes and ages from a holding pond resembling wild rocky habitat.
 
-### Download
-https://huggingface.co/datasets/jdpoling/FjordFish/tree/main
-
 ### Detection and Classification
 
 The dataset contains 28 classes:
@@ -19,3 +16,12 @@ The dataset contains 28 classes:
   - 5 uknown or group level classes i.e. "labrids_unknown" (unknown wrasses)
 
 All annotations are bounding boxes contained in text files currently in the You Only Look Once (YOLO) format for YOLOv8+
+
+### Download
+https://huggingface.co/datasets/jdpoling/FjordFish/tree/main
+
+## Citation
+If you use the FjordFish dataset in your work, please cite our article:
+```
+_citation here_
+```
