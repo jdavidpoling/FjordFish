@@ -3,11 +3,9 @@
 
 ![corkwing wrasse](https://github.com/jdavidpoling/FjordFish/blob/main/Images/1407.jpg)
 
-This is a dataset of imagery from baited and unbaited remote underwater video from the Norwegian and Swedish North Atlantic coastlines and acts as a dataset for computer vision model training as well as:
-  - model testing and validation
-  - model pretraining
+This is a dataset of imagery from baited and unbaited remote underwater video from the Norwegian and Swedish North Atlantic coastlines and acts as a dataset for computer vision model training as well as testing, validation and pretraining.
 
-The dataset contain approximately 6000 annotations across 3000 images from wild fauna, as well as images of coastal cod gadus _morhua_ of varied sizes and ages from a holding pond resembling wild rocky habitat.
+The dataset contain approximately 6000 annotations across 3000 images from wild fauna, as well as images of coastal cod gadus _morhua_ of varied sizes and ages from a semi-natural mesocosm resembling wild rocky habitat.
 
 ### Detection and Classification
 
