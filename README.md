@@ -49,7 +49,7 @@ All annotations are bounding boxes contained in text files currently in the You 
 https://zenodo.org/records/17950781
 
 ## Citation
-If you use the FjordFish dataset in your work, please cite as follows:
+If you use the FjordFish dataset in your work, please cite the associated paper:
 ```
-Poling, J. D., Sørdalen, T. K., Halvorsen, K., Thormar, J., Perry, D., & Larsen, T. (2025). FjordFish (1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17950781
+Poling, J. D., Perry, D., Halvorsen, K. T., Malde, K., Thormar, J., Larsen, T., & Sørdalen, T. K. (2026). Annotation strategy trade-offs for deep learning-based underwater fish detection. Ecological Informatics, 103891.
 ```
