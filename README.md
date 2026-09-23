@@ -49,7 +49,7 @@ All annotations are bounding boxes contained in text files currently in the You 
 https://zenodo.org/records/17950781
 
 ### Models
-If you are looking for the final trained YOLOv9c models from the publication, they can be found here: https://huggingface.co/collections/jdpoling/fjordfish-yolo9c
+If you are looking for the trained YOLOv9c models from the publication, they can be found here: https://huggingface.co/collections/jdpoling/fjordfish-yolo9c
 
 ## Citation
 If you use the FjordFish dataset in your work, please cite the associated paper:
