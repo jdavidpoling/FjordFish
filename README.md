@@ -1,5 +1,5 @@
 ## Welcome to FjordFish. 
-### The North Atlantic marine faunal computer vision dataset as part of the publication "Annotation strategy trade-offs for deep learning-based underwater fish detection".
+### North Atlantic marine faunal computer vision dataset as part of the publication "Annotation strategy trade-offs for deep learning-based underwater fish detection".
 
 ![corkwing wrasse](https://github.com/jdavidpoling/FjordFish/blob/main/Images/1407.jpg)
 
